@@ -14,9 +14,9 @@ This project was made as a learning experience for myself so it is nowhere near 
 
 ## **How to Install and Run the Project**
 1. To run the project, you would need to install python and these modules:
-    * [Pygame] (https://github.com/pygame/pygame)
-    * [Tkinter] (https://docs.python.org/3/library/tkinter.html)
-    * [mutagen] (https://mutagen.readthedocs.io/en/latest/)
+    * [Pygame](https://github.com/pygame/pygame)
+    * [Tkinter](https://docs.python.org/3/library/tkinter.html)
+    * [mutagen](https://mutagen.readthedocs.io/en/latest/)
 
 2. Run this command in cmd/powershell to start:
 ```
