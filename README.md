@@ -14,7 +14,13 @@ A music player which included all the functionalities that I took inspired from 
 ## **Description**
 This project was made as a learning experience for myself so it is nowhere near perfect, and I may improve user's experience as well as adding more functionalites to it. Feel free to give me any comment to enhance the project as it would only help me become a better developer. Thank you.
 
+OLD:
 
+![alt_text](https://github.com/TomNguyen10101/Music-Player/blob/main/Example%20Images/old-musicplayer.png)
+
+NEW:
+
+![alt_text](https://github.com/TomNguyen10101/Music-Player/blob/main/Example%20Images/new-musicplayer.png)
 
 ## **How to Install and Run the Project**
 1. To run the project, you would need to install python and these modules:
